@@ -23,7 +23,7 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Mobile Developer Using Flutter <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Palstine.
+I am a Mobile Developer Using Flutter <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Palestine.
 
 - :telescope: I’m working as a Programmer and contributing to mobile development for building applications.
 

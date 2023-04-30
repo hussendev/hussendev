@@ -14,7 +14,7 @@
   </a>
 </div>
 <h1  align="center">
-  hey there
+  Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <div align="center">
@@ -31,7 +31,11 @@ I am a Mobile Developer Using Flutter <img src="https://media.giphy.com/media/WU
 
 - :zap: In my free time,  I develop myself, solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Facebook  Badge](https://img.shields.io/badge/-gmail-red?style=flat&logo=gmail&logoColor=white)](<a href="mailto:ghabayenhussej@gmail.com">Gmail</a>)
+- <h3 align="left">💬 How to reach me :</h3>
+
+<p>
+📌<a href="mailto:ghabayenhussej@gmail.com">Gmail</a>
+</p>
 
 - 📄 Know about my experiences [CV](https://drive.google.com/file/d/104xudpg9Go6pToNBVKlSvNO87hbOL69K/view?usp=sharing)
 

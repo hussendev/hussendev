@@ -31,7 +31,7 @@ I am a Mobile Developer Using Flutter <img src="https://media.giphy.com/media/WU
 
 - :zap: In my free time,  I develop myself, solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Facebook  Badge](https://img.shields.io/badge/-gmail-red?style=flat&logo=gmail&logoColor=white)](<a href="ghabayenhussej@gmail.com">/a>)
+- :mailbox:How to reach me: [![Facebook  Badge](https://img.shields.io/badge/-gmail-red?style=flat&logo=gmail&logoColor=white)](<a href="mailto:ghabayenhussej@gmail.com">Gmail</a>)
 
 - 📄 Know about my experiences [CV](https://drive.google.com/file/d/104xudpg9Go6pToNBVKlSvNO87hbOL69K/view?usp=sharing)
 

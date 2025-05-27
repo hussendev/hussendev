@@ -29,7 +29,7 @@ I am a Mobile Developer Using Flutter <img src="https://media.giphy.com/media/WU
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time,  I develop myself, solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time,  I develop myself, solve problems on GeeksforGeeks, and read tech articles.
 
 - <h3 align="left">💬 How to reach me :</h3>
 
@@ -37,7 +37,7 @@ I am a Mobile Developer Using Flutter <img src="https://media.giphy.com/media/WU
 📌<a href="mailto:ghabayenhussej@gmail.com">Gmail</a>
 </p>
 
-- 📄 Know about my experiences [CV](https://drive.google.com/file/d/104xudpg9Go6pToNBVKlSvNO87hbOL69K/view?usp=sharing)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1iqaYnSTWZeQNdUfR2SRBVnnJRpDoSq5n/view?usp=sharing)
 
 ---
 

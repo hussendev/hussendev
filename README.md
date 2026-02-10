@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Hussen+Ghabayen!;Senior+Flutter+Developer!;Mobile+Apps+Architect!;16K+Users+Production+Apps!" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Hussen+Ghabayen!;Mid+Flutter+Developer!;Mobile+Apps+Architect!;16K+Users+Production+Apps!" />
 </h1>
 
 <div align="center">
@@ -33,7 +33,7 @@
 
 <img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"  />
 
-**Senior Flutter Developer** with **3+ years** of production experience building scalable mobile applications serving **16,000+ concurrent users**. I specialize in Clean Architecture, real-time communication systems, and creating high-performance applications that solve real-world problems.
+**Mid Flutter Developer** with **3+ years** of production experience building scalable mobile applications serving **16,000+ concurrent users**. I specialize in Clean Architecture, real-time communication systems, and creating high-performance applications that solve real-world problems.
 
 - 🔭 **Currently:** Building production apps with LiveKit, Socket.IO, and advanced state management
 - 🌱 **Mastering:** Advanced Bloc/Cubit patterns, real-time systems, and payment integrations
@@ -107,7 +107,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 </div>
 
-### 🚀 Senior Flutter Developer | Freelance/Contract
+### 🚀 Mid Flutter Developer | Freelance/Contract
 **📅 September 2024 - Present**
 
 - 📱 **Architected** production apps serving **16,000+ concurrent users**
